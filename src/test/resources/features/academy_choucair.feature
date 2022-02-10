@@ -4,7 +4,7 @@
 Feature: Academy Choucair
   As a user, I want to learn how to automate in screemplay at the Choucair Academy with the automation course
   @scenario
-  Scenario: Search for a atomation course
+  Scenario: Search for a automation course
     Given than brandon wants to learn automation at the academy Choucair
     |strUser|strPassword|
     |89341138|Choucair2022*|
